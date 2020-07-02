@@ -1,3 +1,1 @@
-# terraform-aws-asg
-# Creating AWS Auto Sclaing Group via Terraform module 
-
+# terraform-class-april-2020
